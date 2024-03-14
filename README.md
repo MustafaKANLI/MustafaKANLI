@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakanli&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="mustafakanli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakanli&show_icons=true&locale=en" alt="mustafakanli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakanli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="mustafakanli" /></p>
