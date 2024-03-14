@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa KANLI</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F72C97&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F72C97&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" align="center" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakanli&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakanli" /> </p>
 
