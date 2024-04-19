@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [mustafakanli.com](mustafakanli.com)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **info@mustafakanli.com**
 
