@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafakanli" alt="mustafakanli" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [mustafakanli.com](mustafakanli.com)
+- 👨‍💻 All of my projects are available at [mustafakanli.com](https://mustafakanli.com/)
 
 - 💬 Ask me about **anything**
 
